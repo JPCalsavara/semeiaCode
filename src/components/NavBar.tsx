@@ -11,15 +11,15 @@ export default function NavBar({ navTopics }: NavBarProps) {
       <div className="container header-content">
         <a href="#topo" className="brand" aria-label="Ir para o topo">
           <Image
-            src="/semea-mark.svg"
-            alt="Semea Code"
+            src="/LogoSemeiaCode.png"
+            alt="SemeiaCOde"
             className="brand-mark"
             width={36}
             height={36}
             priority
           />
           <span className="brand-text">
-            <strong>Semea Code</strong>
+            <strong>SemeiaCOde</strong>
             <span>Semeando talentos</span>
           </span>
         </a>

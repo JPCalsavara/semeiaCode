@@ -15,13 +15,13 @@ const bodyFont = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Semea Code | Semeando talentos pela programacao",
+  title: "SemeiaCOde | Semeando talentos pela programacao",
   description:
-    "Plataforma institucional com nova identidade visual Semea Code em tons de azul, verde e amarelo.",
+    "Plataforma institucional com nova identidade visual SemeiaCOde em tons de azul, verde e amarelo.",
   icons: {
-    icon: "/semea-mark.svg",
-    shortcut: "/semea-mark.svg",
-    apple: "/semea-mark.svg",
+    icon: "/LogoSemeiaCode.png",
+    shortcut: "/LogoSemeiaCode.png",
+    apple: "/LogoSemeiaCode.png",
   },
 };
 

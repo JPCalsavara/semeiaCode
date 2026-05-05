@@ -9,7 +9,7 @@ export default function Cohorts({ cohorts }: CohortsProps) {
         <div className="section-heading">
           <h2>Turmas</h2>
           <p>
-            Ciclos semestrais da Semeia Code com foco em base logica e evolucao
+            Ciclos semestrais da SemeiaCOde com foco em base logica e evolucao
             pratica dos alunos.
           </p>
         </div>

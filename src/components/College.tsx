@@ -11,7 +11,7 @@ export default function College({ members }: CollegeProps) {
         <div className="section-heading">
           <h2>Cargos da organizacao</h2>
           <p>
-            Estrutura de atuacao da Semeia Code para organizar as turmas,
+            Estrutura de atuacao da SemeiaCOde para organizar as turmas,
             didatica e acompanhamento dos alunos.
           </p>
         </div>

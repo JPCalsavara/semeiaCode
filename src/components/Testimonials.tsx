@@ -12,7 +12,7 @@ export default function Testimonials({ testimonials }: TestimonialsProps) {
         <div className="section-heading">
           <h2>O que antigos membros dizem</h2>
           <p>
-            Depoimentos de quem viveu a Semeia Code e hoje atua no mercado,
+            Depoimentos de quem viveu a SemeiaCOde e hoje atua no mercado,
             levando adiante o impacto da extensao.
           </p>
         </div>

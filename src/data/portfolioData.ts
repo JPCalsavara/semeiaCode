@@ -69,7 +69,7 @@ export const activitiesData: ActivityCard[] = [
   },
   {
     id: "monitoria-semeia",
-    title: "Monitoria Semeia Code",
+    title: "Monitoria SemeiaCOde",
     period: "Inscricoes no inicio de cada semestre",
     summary:
       "Universitarios voluntarios apoiam os alunos durante os desafios praticos e monitorias em laboratorio.",
@@ -100,7 +100,7 @@ export const experiencesData: ExperienceCard[] = [
     role: "Extensao universitaria em programacao",
     period: "2024 - Atual",
     summary:
-      "A Semeia Code e a primeira organizacao de extensao em programacao da Unicamp Limeira, criada para aproximar universidade e escola publica.",
+      "A SemeiaCOde e a primeira organizacao de extensao em programacao da Unicamp Limeira, criada para aproximar universidade e escola publica.",
     achievements: [
       "Foco em ensino de base para alunos do ensino medio.",
       "Aulas com acompanhamento proximo e linguagem acessivel.",
@@ -154,7 +154,7 @@ export const membersHighlights: MemberHighlight[] = [
     id: "coord-exec",
     name: "Coordenador Executivo",
     area: "Gestao geral da organizacao",
-    bio: "Responsavel por estrategia, planejamento das frentes e articulacao institucional da Semeia Code.",
+    bio: "Responsavel por estrategia, planejamento das frentes e articulacao institucional da SemeiaCOde.",
   },
   {
     id: "coord-edu",
@@ -180,15 +180,15 @@ export const testimonialsData: TestimonialCard[] = [
   {
     id: "alumni-1",
     name: "Ana Clara Mendes",
-    photo: "/semea-mark.svg",
+    photo: "/LogoSemeiaCode.png",
     workplace: "Engenheira de Software na Mottu",
     quote:
-      "A Semeia Code me mostrou que ensinar programacao tambem e transformar futuro. Foi onde aprendi a liderar com empatia e impacto real.",
+      "A SemeiaCOde me mostrou que ensinar programacao tambem e transformar futuro. Foi onde aprendi a liderar com empatia e impacto real.",
   },
   {
     id: "alumni-2",
     name: "Lucas Henrique Silva",
-    photo: "/semea-mark.svg",
+    photo: "/LogoSemeiaCode.png",
     workplace: "Desenvolvedor Backend na iFood",
     quote:
       "Participar da organizacao me ensinou a explicar logica de forma simples. Ver alunos de escola publica criando seus primeiros algoritmos foi inesquecivel.",
@@ -196,10 +196,10 @@ export const testimonialsData: TestimonialCard[] = [
   {
     id: "alumni-3",
     name: "Mariana Souza",
-    photo: "/semea-mark.svg",
+    photo: "/LogoSemeiaCode.png",
     workplace: "Product Manager na Nubank",
     quote:
-      "A cultura da Semeia Code e unica: colaboracao, metodo e proposito. A organizacao me formou para o mercado e para a vida.",
+      "A cultura da SemeiaCOde e unica: colaboracao, metodo e proposito. A organizacao me formou para o mercado e para a vida.",
   },
 ];
 

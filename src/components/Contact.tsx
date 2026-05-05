@@ -13,7 +13,7 @@ export default function Contact({ social }: ContactProps) {
     <section id="contato" className="section contact-section reveal">
       <div className="container contact-content">
         <div>
-          <h2>Quer colaborar com o Semea Code?</h2>
+          <h2>Quer colaborar com o SemeiaCOde?</h2>
           <p>
             Estamos abertos a parcerias com escolas, grupos estudantis e
             organizacoes que acreditam em educacao tecnologica acessivel e de
@@ -37,7 +37,7 @@ export default function Contact({ social }: ContactProps) {
           Formulario de espera do processo seletivo
         </a>
         <p>
-          © {new Date().getFullYear()} semeiaCode. Todos os direitos reservados.
+          © {new Date().getFullYear()} SemeiaCOde. Todos os direitos reservados.
         </p>
       </div>
     </section>
